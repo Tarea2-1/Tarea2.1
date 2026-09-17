@@ -10,8 +10,8 @@ function App() {
   );
 }
 
-
-export default App;
-
 // Modulo C realizado por Gonchi
 // Modulo A realizado por Gonchi
+// Componente X realizado por Fibio
+
+export default App;
