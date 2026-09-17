@@ -6,6 +6,8 @@ function App() {
     <div>
       <h1>hola mundo </h1>
       <p>Proyecto Integrador</p>
+      <h1>Primrasadasdasdw  </h1>
+      <p>cambio 2</p>
     </div>
   );
 }
