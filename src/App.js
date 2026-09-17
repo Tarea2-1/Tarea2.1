@@ -4,7 +4,7 @@ import React from 'react';
 function App() {
   return (
     <div>
-      <h1>Primer cambio</h1>
+      <h1>hola mundo </h1>
       <p>Proyecto Integrador</p>
     </div>
   );
@@ -14,3 +14,4 @@ function App() {
 export default App;
 
 // Modulo C realizado por Gonchi
+// Modulo A realizado por Gonchi
