@@ -13,5 +13,6 @@ function App() {
 // Modulo C realizado por Gonchi
 // Modulo A realizado por Gonchi
 // Componente X realizado por Fibio
+// Componente Z realizado por Fibio
 
 export default App;
